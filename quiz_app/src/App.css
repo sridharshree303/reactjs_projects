@@ -1,0 +1,7 @@
+.alignLeft{
+  text-align: left;
+  border : 1px ridge black;
+  padding: 5px;
+  margin: 5px 20px 5px 20px;
+  border-radius: 2px;
+}
